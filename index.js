@@ -27,7 +27,83 @@ const RSS_TO_CONVERT = [
     {
         name: 'Abruzzo',
         url: 'https://www.ansa.it/abruzzo/notizie/abruzzo_rss.xml'
-    }
+    },
+    {
+        name: 'Basilicata',
+        url: 'https://www.ansa.it/basilicata/notizie/basilicata_rss.xml'
+    },
+    {
+        name: 'Calabria',
+        url: 'https://www.ansa.it/calabria/notizie/calabria_rss.xml'
+    },
+    {
+        name: 'Campania',
+        url: 'https://www.ansa.it/campania/notizie/campania_rss.xml'
+    },
+    {
+        name: 'Emilia Romagna',
+        url: 'https://www.ansa.it/emiliaromagna/notizie/emiliaromagna_rss.xml'
+    },
+    {
+        name: 'Friuli Venezia Giulia',
+        url: 'https://www.ansa.it/friuliveneziagiulia/notizie/friuliveneziagiulia_rss.xml'
+    },
+    {
+        name: 'Lazio',
+        url: 'https://www.ansa.it/lazio/notizie/lazio_rss.xml'
+    },
+    {
+        name: 'Liguria',
+        url: 'https://www.ansa.it/liguria/notizie/liguria_rss.xml'
+    },
+    {
+        name: 'Lombardia',
+        url: 'https://www.ansa.it/lombardia/notizie/lombardia_rss.xml'
+    },
+    {
+        name: 'Marche',
+        url: 'https://www.ansa.it/marche/notizie/marche_rss.xml'
+    },
+    {
+        name: 'Molise',
+        url: 'https://www.ansa.it/molise/notizie/molise_rss.xml'
+    },
+    {
+        name: 'Piemonte',
+        url: 'https://www.ansa.it/piemonte/notizie/piemonte_rss.xml'
+    },
+    {
+        name: 'Puglia',
+        url: 'https://www.ansa.it/puglia/notizie/puglia_rss.xml'
+    },
+    {
+        name: 'Sardegna',
+        url: 'https://www.ansa.it/sardegna/notizie/sardegna_rss.xml'
+    },
+    {
+        name: 'Sicilia',
+        url: 'https://www.ansa.it/sicilia/notizie/sicilia_rss.xml'
+    },
+    {
+        name: 'Toscana',
+        url: 'https://www.ansa.it/toscana/notizie/toscana_rss.xml'
+    },
+    {
+        name: 'Trentino',
+        url: 'https://www.ansa.it/trentino/notizie/trentino_rss.xml'
+    },
+    {
+        name: 'Umbria',
+        url: 'https://www.ansa.it/umbria/notizie/umbria_rss.xml'
+    },
+    {
+        name: 'Valle Aosta',
+        url: 'https://www.ansa.it/valledaosta/notizie/valledaosta_rss.xml'
+    },
+    {
+        name: 'Veneto',
+        url: 'https://www.ansa.it/veneto/notizie/veneto_rss.xml'
+    },
 ]
 
 const getArticleBodyFromUrl = async (body) => {
