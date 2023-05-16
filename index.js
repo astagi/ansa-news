@@ -48,6 +48,9 @@ const main = async () => {
             const body = await response.text();
             rss.items[i]['text'] = await getArticleBodyFromUrl(body)
             rss.items[i]['media'] = await getImageSrc(body)
+            rss.items[i]['daypublished'] = new Date(rss.items[i].published).toLocaleString('it-IT',  {'day': '2-digit'})
+            rss.items[i]['monthpublished'] = new Date(rss.items[i].published).toLocaleString('it-IT',  {'month': 'long'})
+            rss.items[i]['id'] = `${content.name.toLowerCase()}_${i}`
         }
         const fd = fs.openSync(`json/${content.name}.json`, "w+");
         fs.writeSync(fd, JSON.stringify(rss, null, 4))
