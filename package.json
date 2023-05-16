@@ -19,6 +19,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^2.6.11",
-    "rss-to-json": "^2.1.1"
+    "rss-to-json": "^2.1.1",
+    "slugify": "^1.6.6"
   }
 }

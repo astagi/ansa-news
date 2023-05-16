@@ -7,6 +7,20 @@
     "items": [
         {
             "id": "toscana_0",
+            "title": "Maltempo, a Marradi frane e case evacuate per precuazione",
+            "description": "Protezione civile: in alto Mugello in 12 ore 95 mm di pioggia",
+            "link": "https://www.ansa.it/toscana/notizie/2023/05/16/maltempo-a-marradi-frane-e-case-evacuate-per-precuazione_fc2c838f-3dfd-486a-992d-2cccee85cd3c.html",
+            "published": 1684264049000,
+            "created": 1684264049000,
+            "category": [],
+            "enclosures": [],
+            "media": "https://www.ansa.it/webimages/img_457x/2022/2/7/89312ece9e6d9b4c6c95f83818189fd1.jpg",
+            "text": "\n                          \n\n            \n            (ANSA) - FIRENZE, 16 MAG - Franee e caduta di alberi sulle\nstrade, con 5 auto bloccate per gli smottamenti ma nessun ferito\ne alcune cause evacuate per precauzione a causa\ndell'innalzamento del fiume Lamone: è quanto causato dal\nmaltempo nel territorio del comune di Marradi, comune del\nfiorentino ma che si trova sul versante romagnolo\ndell'Appennino, in base a quanto si spiega dai vigili del fuoco\ne dalla protezione civile della Metrocittà. E domani scuole\nchiuse a Marradi, come informa il Comune.   \n\t\t\t\t   Sempre la Protezione civile della Città metropolitana di\nFirenze che segnala che \"nelle ultime 12 ore sono state\nregistrate persistenti precipitazioni su buona parte\"\ndel territorio del Fiorentino, \"con particolare riferimento al\nsettore dell'Alto Mugello (Marradi, Palazzuolo sul Senio e\nFirenzuola) dove le piogge cumulate hanno superato i 95 mm di\npioggia in 12 ore\". \"In conseguenza si è verificato un\ninnalzamento dei livelli idrici di tutti i corsi d'acqua del\nreticolo idrografico di questo territorio e fra questi Senio,\nSanterno e Lamone\". La Protezione civile della Metrocittà\nsegnala inoltre che \"nella zona della Romagna Toscana (Alto\nMugello), la viabilità risulta compromessa a causa di numerose\nfrane. Le condizioni del terreno sono tali che non si può\nescludere l'innesco di nuovi movimenti franosi. In conseguenza\ndi ciò si rinnova l'invito ad evitare spostamenti\". I tecnici\nsono intanto al lavoro su più strade per frane e cadute di\nalberi (su sr 302, sp 36, sp 306, sp 20, sp 29, sp 32, sp 58).   \n\t\t\t\t   Per l'Alto Mugello la Protezione civile regionale ha emesso\nun'allerta arancione per rischio idrogeologico e idraulico del\nreticolo minore, così come per le aree dell'alta Val Tiberina e\nalto Casentino nell'Aretino, con validà dalle 21 di oggi alle 16\ndi domani. (ANSA).   \n\t\t\t\t          \n\n\n                      ",
+            "daypublished": "16",
+            "monthpublished": "maggio"
+        },
+        {
+            "id": "toscana_1",
             "title": "Europa League: ottimismo Fiorentina per il recupero di Cabral",
             "description": "Commisso \"stiamo andando bene in coppa, speriamo di continuare\"",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/europa-league-ottimismo-fiorentina-per-il-recupero-di-cabral_8d931405-fa9e-4287-9ff8-0b2fb2229a42.html",
@@ -20,7 +34,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_1",
+            "id": "toscana_2",
             "title": "Oltre le mura di Sant'Orsola, convento di Firenze aperto un mese",
             "description": "La mostra anticipa l'apertura del museo in programma nel 2025",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/oltre-le-mura-di-santorsola-convento-di-firenze-aperto-un-mese_974fed62-8ab2-41f1-8bdc-55cbddf2dfc5.html",
@@ -34,7 +48,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_2",
+            "id": "toscana_3",
             "title": "Scontro furgone-auto nel Pisano, muore anziano",
             "description": "Nell'urto feriti lievemente anche due bambini di 9 e 7 anni",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/scontro-furgone-auto-nel-pisano-muore-anziano_0f94b97f-8e12-4778-9d3a-a63d90bc27db.html",
@@ -48,7 +62,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_3",
+            "id": "toscana_4",
             "title": "Giro: il danese Cort Nielsen vince la 10/a tappa",
             "description": "Arrivo in volata per terzetto in fuga, Thomas resta in rosa",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/giro-il-danese-cort-nielsen-vince-la-10/a-tappa_1cfa9dd5-d8cf-4e7b-985d-6c9effe68b7a.html",
@@ -62,7 +76,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_4",
+            "id": "toscana_5",
             "title": "Celiachia e dieta senza glutine, 9 giorni di approfondimenti",
             "description": "Aic: in Toscana patologia interessa 18.721 persone",
             "link": "https://www.ansa.it/toscana/notizie/saluteecittadini/2023/05/16/celiachia-e-dieta-senza-glutine-9-giorni-di-approfondimenti_3097108b-63c1-434f-8f94-0a34f170eecd.html",
@@ -76,7 +90,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_5",
+            "id": "toscana_6",
             "title": "Maltempo, allerta arancione in parte Toscana",
             "description": "In Alto Mugello, Valtiberina, Casentino tra Firenze e Arezzo",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/maltempo-allerta-arancione-in-parte-toscana_84918c1d-c0fe-4490-b751-b44ae2ac173a.html",
@@ -90,7 +104,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_6",
+            "id": "toscana_7",
             "title": "Maltempo, sospesi collegamenti traghetti Piombino-Rio Marina",
             "description": "Per forti raffiche di vento e mare mosso",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/maltempo-sospesi-collegamenti-traghetti-piombino-rio-marina_a2f19aff-6625-4475-8140-2e0bb7c56b10.html",
@@ -104,7 +118,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_7",
+            "id": "toscana_8",
             "title": "I Maroon 5 annunciano il ritorno con un nuovo singolo",
             "description": "Middle Ground in uscita il 19 maggio",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/i-maroon-5-annunciano-il-ritorno-con-un-nuovo-singolo_88ad76d8-da5b-4dc0-ae29-0c9c4022ae41.html",
@@ -118,7 +132,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_8",
+            "id": "toscana_9",
             "title": "Associazione Astori, a Firenze convegno con il ministro Abodi",
             "description": "Tema cardiomiopatia aritmogena, 31/5 a Centro tecnico Coverciano",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/associazione-astori-a-firenze-convegno-con-il-ministro-abodi_bce5463e-7370-4045-b0eb-e30b4f6d259f.html",
@@ -132,7 +146,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_9",
+            "id": "toscana_10",
             "title": "Pallavolo: la scelta 'al contrario' di Pietrini, va in Russia",
             "description": "L'azzurra lascia Scandicci, giocherà nella Dinamo Ak-Bars",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/pallavolo-la-scelta-al-contrario-di-pietrini-va-in-russia_591721ed-1ccd-44f9-a2c5-d9625242b64e.html",
@@ -146,7 +160,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_10",
+            "id": "toscana_11",
             "title": "Conference League: Sanchez arbitra Basilea-Fiorentina",
             "description": "Direttore di gara spagnolo per il ritorno della semifinale",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/conference-league-sanchez-arbitra-basilea-fiorentina_904d6b2b-992f-4681-9d5f-e8b978d45275.html",
@@ -160,7 +174,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_11",
+            "id": "toscana_12",
             "title": "Comunali: Conti si ferma al 49,96%, ballottaggio a Pisa",
             "description": "A Siena sarà secondo turno tra la Fabio e la Ferretti",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/16/comunali-conti-si-ferma-al-4996-ballottaggio-a-pisa_cf3b747d-5642-48ed-8364-a89264774c21.html",
@@ -174,7 +188,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_12",
+            "id": "toscana_13",
             "title": "Comunali: in Toscana centrodestra sfila due comuni 'rossi'",
             "description": "Ma c.sinistra conferma due sindaci uscenti e riprende Magliano",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/comunali-in-toscana-centrodestra-sfila-due-comuni-rossi_dfd0b793-10b4-4443-bec0-15a474321eab.html",
@@ -182,13 +196,13 @@
             "created": 1684179886000,
             "category": [],
             "enclosures": [],
-            "media": "https://www.ansa.it/webimages/img_300x200/2023/5/16/cac782a8f3f5f7d42051cb5f87d6da1a.jpg",
+            "media": "https://www.ansa.it/webimages/img_300x200/2023/5/16/b35246ebc1cac7cbc118af944f5cb928.jpg",
             "text": "\n                          \n\n            \n            (ANSA) - FIRENZE, 15 MAG - Nella tornata elettorale delle\namministrative in Toscana, che ha portato al voto 22 Comuni, di\ncui tre capoluoghi, il centrodestra riesce a 'strappare' due\nterritori storici al centrosinistra che, dal canto suo, conferma\ninvece due sindaci uscenti e si riprende Magliano in Toscana\n(Grosseto) dopo un legislatura a guida opposta.   \n\t\t\t\t   I passaggi di testimone più rilevanti, tra i piccolo comuni\nal voto, si sono registrati a Laterina Pergine Valdarno (Arezzo)\ndove il nuovo sindaco Jacopo Tassini sostenuto dalla lista\ncivica 'Rinascita' in area centrodestra ha battuto il candidato\ndella civica di centrosinistra Michele Gragnoli, portando così\nil comune di cui fa parte Laterina, paese dell'ex ministro e\nparlamentare di Iv Maria Elena Boschi, a svoltare a destra per\nla prima volta. Stesso copione a Poggio a Caiano (Prato) dove la\nvittoria di Riccardo Palandri, sostenuto dal centrodestra, ha\ninterrotto il governo da parte del centrosinistra che proseguiva\nda decenni. Dall'altra parte, il centrosinistra si riprende\nMagliano in Toscana (Grosseto) con la vittoria di Gabriele\nFusini.   \n\t\t\t\t   Per il centrosinistra arrivano anche alcune conferme: Tommaso\nTriberti resta sindaco di Marradi (Firenze) per il terzo\nmandato, mentre Nicola Tesi è confermato primo cittadino di\nPonte Buggianese (Pistoia) per il secondo mandato. A Impruneta\n(Firenze) è eletto sindaco Riccardo Lazzerini con una lista\nsostenuta, tra gli altri, da Pd e M5s e conferma la guida da\nparte del centrosinistra. Conferme anche nel centrodestra con\nMario Francesconi, sostenuto dalla lista civica 'Futuro per\nCapolona' che resta sindaco di Capolona (Arezzo) per il secondo\nmandato, mentre Tullio Tenci è il nuovo sindaco di\nCastell'Azzara (Grosseto) dove torna un sindaco eletto dopo un\nanno di commissariamento. Il centrodestra posiziona un'altra\nbandierina anche sul comune di Monte Argentario (Grosseto) dove\nArturo Cerulli, sostenuto dalla lista civica di centrodestra\n'Civico 23' torna in carica dopo che ha già ricoperto due\nmandati in passato (dal 2010 al 2018). (ANSA).   \n\t\t\t\t          \n\n\n                      ",
             "daypublished": "15",
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_13",
+            "id": "toscana_14",
             "title": "Anche Pisa al  ballottaggio come Siena e Massa",
             "description": "Si conosceranno il 29 maggio anche i nomi dei sindaci di Campi, Pescia e Pietrasanta",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/verso-ballottaggio-a-siena-e-a-massa-a-pisa-conti-rischia-vincere-1/o-turno-_7442769a-dcf8-4f86-90aa-87af5e73f64e.html",
@@ -196,13 +210,13 @@
             "created": 1684229033000,
             "category": [],
             "enclosures": [],
-            "media": "https://www.ansa.it/webimages/img_300x200/2023/5/16/aab8aace190fa62d835b63f67be00308.jpg",
+            "media": "https://www.ansa.it/webimages/img_300x200/2023/5/16/b35246ebc1cac7cbc118af944f5cb928.jpg",
             "text": "\n\t\t\t\t\t\t\t\t\t\tVanno tutti al ballottaggio i tre comuni capoluogo di provincia dove si è votato per le amministrative: sono Siena, Massa e anche Pisa. Questo il responso quando manca  ancora una sezione da scrutinare a Massa mentre è definitivo il risultato per gli alltri due comuni.\nA Siena il ballottaggio sarà tra Nicoletta Fabio, sostenuta dal centrodestra, e Anna Ferretti, candidata del centrosinistra. Fabio, sostenuta da Fratelli d'Italia, Siena in tutti i sensi, Lega, Fi-Unione centro-Liberali e riformisti e Movimento civico senese, ha ottenuto il 30,51%, pari a 8.249 voti. Ferretti, candidata del Pd, Con Anna Ferretti sindaca, Si sinistra italiana-Iep!, il 28,75%, pari a 7.773 voti. A Massa, il sindaco uscente, recentemente sfiduciato, Francesco Persiani, fautore nel 2018 del passaggio della città al centrodestra, è avanti, sostenuto da Forza Italia e Lega, ma non da Fratelli d'italia. Al secondo turno si scontrerà con il segretario comunale Dem Enzo Ricci, sostenuto da Partito democratico e Alleanza Verdi e Sinistra, con alcune liste civiche. Per un piccolo pugno di voti mancanti che non gli ha concesso di superare la fatidica soglia del 50% delle preferenze più una, a Pisa sfuma la vittoria al primo turno per il sindaco uscente del centrodestra Michele Conti, che si è fermato al 49,96%. Andrà al ballottaggio con il candidato di centrosinistra e del Movimento 5 stelle Paolo Martinelli, che ha ottenuto il 41,12%. Le operazioni di spoglio sono procedute a rilento, e soprattutto si è determinato per ore uno stallo su tre sezioni per le quali è stata necessaria un'accurata verifica dei voti.\nSi conosceranno solo il 29 maggio poi i sindaci di Campi Bisenzio, Pescia e Pietrasanta. A Campi il ballottaggio è all'insegna del centrosinistra: davanti il candidato sostenuto dal Pd Leonardo Fabbri col 30,30% seguito da Andrea Tagliaferri, che corre per M5s, con il 21,30. A Pietrasanta Alberto Stefano Giovannetti, sindaco uscente di Pietrasanta, sostenuto da Lega e Fi per un secondo mandato, ha ottenuto il 45,43% contro il 35 di Lorenzo Borzonasca, candidato del centrosinistra e del M5s. A Pescia il ballottaggio è tra il candidato del centrosinistra Riccardo Franchi e il candidato di alcune liste civiche Vittoriano Brizzi.\n\t\t\t\t\t\t\t\t\t",
             "daypublished": "16",
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_14",
+            "id": "toscana_15",
             "title": "Raf in concerto a Firenze il 19 maggio",
             "description": "Con 'La mia casa in tour 2023', al Teatro Verdi",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/raf-in-concerto-a-firenze-il-19-maggio_54a2eb5f-9550-4de6-878f-ada9918c646d.html",
@@ -216,7 +230,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_15",
+            "id": "toscana_16",
             "title": "Traffico:Firenze; Giorgetti,da giugno avviso su scadenze Ztl",
             "description": "",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/trafficofirenze-giorgettida-giugno-avviso-su-scadenze-ztl_06fc758d-1929-4542-8969-a365b56d27ee.html",
@@ -224,13 +238,13 @@
             "created": 1684164580000,
             "category": [],
             "enclosures": [],
-            "media": "https://www.ansa.it/webimages/img_300x200/2023/5/16/aab8aace190fa62d835b63f67be00308.jpg",
+            "media": "https://www.ansa.it/webimages/img_300x200/2023/5/16/b35246ebc1cac7cbc118af944f5cb928.jpg",
             "text": "\n                          \n\n            \n            (ANSA) - FIRENZE, 15 MAG - Un avviso, dal mese di giugno, per\nricordare ai cittadini la scadenza del permesso Ztl. È quanto ha\nannunciato l'assessore alla mobilità Stefano Giorgetti\nrispondendo a una domanda di attualità in consiglio comunale.   \n\t\t\t\t   \"Come già anticipato la scorsa settimana, da giugno Sas\ninvierà ai cittadini un avviso di cortesia per ricordare la\nscadenza del permesso per accedere alla Ztl - ha detto Giorgetti\n-. Si tratta di servizio che come Amministrazione abbiamo\nchiesto a Sas già da qualche tempo e che da giugno prenderà il\nvia\". Giorgetti ha poi ricordato che \"l'autorizzazione scaduta\nnon rappresenta un titolo valido al transito in Ztl e per questa\nragione non è possibile procedere con l'archiviazione in\nautotutela\". (ANSA).   \n\t\t\t\t          \n\n\n                      ",
             "daypublished": "15",
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_16",
+            "id": "toscana_17",
             "title": "Comunali: a isola di Capraia sindaca uscente perde di 1 voto",
             "description": "Vince Lorenzo Renzi con lista civica",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/comunali-a-isola-di-capraia-sindaca-uscente-perde-di-1-voto_6ead23fc-5578-48a2-a2b2-e561ac6fd8b1.html",
@@ -244,7 +258,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_17",
+            "id": "toscana_18",
             "title": "Don Biancalani espone barca-simbolo per ricordare esodo migranti",
             "description": "Davanti a chiesa. 'Ci dicono aumento partenze Senegal e Gambia'",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/don-biancalani-espone-barca-simbolo-per-ricordare-esodo-migranti_22ac02a8-e222-44c2-9ebe-7a12aebe22fc.html",
@@ -258,7 +272,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_18",
+            "id": "toscana_19",
             "title": "Amministrative, in Toscana l'affluenza al 58,14%",
             "description": "Nel 2018 fu del 59,64%. Si è votato in 22 comuni",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/amministrative-in-toscana-laffluenza-al-5814_1186c38d-7836-4cc8-9ebb-eafa1c5d6350.html",
@@ -272,7 +286,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_19",
+            "id": "toscana_20",
             "title": "Robotica educativa, a Pisa laboratori didattici-ludici per tutti",
             "description": "A Festival robot umanoidi, stampe 3d, matematica e creatività",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/robotica-educativa-a-pisa-laboratori-didattici-ludici-per-tutti_91439caa-e74d-442b-bdea-c5ea03acf1ff.html",
@@ -286,7 +300,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_20",
+            "id": "toscana_21",
             "title": "Maltempo, codice giallo in Toscana per piogge",
             "description": "Domani peggioramento del tempo in gran parte della regione",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/maltempo-codice-giallo-in-toscana-per-piogge_f2e3febc-1643-480b-9195-9840ab6c32ab.html",
@@ -300,7 +314,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_21",
+            "id": "toscana_22",
             "title": "Atletica: a Firenze sfida Jacobs-Kerley, ci sarà Omanyala",
             "description": "Annunciati Bednarek,Knighton, Tortu, Desalu. Nei 5.000 Cheptegei",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/atletica-a-firenze-sfida-jacobs-kerley-ci-sara-omanyala_12b1758e-bdbd-46e3-be38-c7ab2b5e7c47.html",
@@ -314,7 +328,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_22",
+            "id": "toscana_23",
             "title": "Tribunale, sì al diritto all'immagine per i beni culturali",
             "description": "Causa promossa dalla Galleria Accademia Firenze per il David",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/tribunale-si-al-diritto-allimmagine-per-i-beni-culturali_63b1d776-eae5-403a-9b44-281129472596.html",
@@ -328,7 +342,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_23",
+            "id": "toscana_24",
             "title": "Fiamme negli ex capannoni Pirelli a Livorno",
             "description": "A fuoco rifiuti accatastati nelle strutture abbandonate",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/fiamme-negli-ex-capannoni-pirelli-a-livorno_a674e183-5772-437c-be2d-32c58ddf4d90.html",
@@ -342,7 +356,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "toscana_24",
+            "id": "toscana_25",
             "title": "Motori e disabilità a \"Un giorno per noi\" di Aci Arezzo",
             "description": "L'iniziativa ha coinvolto decine persone ospiti su auto da rally",
             "link": "https://www.ansa.it/toscana/notizie/2023/05/15/motori-e-disabilita-a-un-giorno-per-noi-di-aci-arezzo_41c3f749-5afc-4798-9878-92dd0ed1b267.html",
@@ -353,48 +367,6 @@
             "media": "https://www.ansa.it/webimages/img_457x/2023/5/15/4738961ff8997b367bfee6cb1292a0e5.jpg",
             "text": "\n                          \n\n            \n            (ANSA) - AREZZO, 15 MAG - La mattina di domenica 14 maggio,\npresso il parcheggio dello stadio di Arezzo, si è svolta\nl'iniziativa \"Un giorno per noi\" organizzata dall'automobile\nclub di Arezzo. Decine di persone portatrici di disabilità, sono\nstate ospiti dei bolidi da rally, al fianco dei piloti, tra\nstrette curve e accelerazioni. \"Un giorno per noi\" è stata resa\npossibile grazie alla collaborazione con vari istituti per\nportatori di disabilità di Arezzo e grazie al patrocinio\ndell'amministrazione comunale di Arezzo.   \n\t\t\t\t\"L'intento è quello di cercare di far provare un'emozione ai\n'co-piloti per un giorno' e portare un messaggio positivo ed\ninclusivo: il mondo dei motori è un mondo sensibile e anche oggi\nha inteso dimostrarlo concretamente\", dice Bernardo Mennini\npresidente ACI Arezzo. I ragazzi a bordo hanno avuto la\npossibilità di prendere parte a un vero e proprio corso\naccelerato di guida su un circuito fatto di di slalom tra i\nbirilli e accelerazioni improvvise. Al termine, tutti hanno\nricevuto un attestato di partecipazione ufficiale. L'iniziativa\nsi inserisce nell'ambito delle celebrazioni per i 100 anni\ndell'Aci di Arezzo. (ANSA).   \n\t\t\t\t          \n\n\n                      ",
             "daypublished": "15",
-            "monthpublished": "maggio"
-        },
-        {
-            "id": "toscana_25",
-            "title": "Calcio: Fiorentina batte Udinese 2-0 e torna a vincere",
-            "description": "Gol Castrovilli e Bonaventura. Pali di Duncan, Brekalo e Vivaldo",
-            "link": "https://www.ansa.it/toscana/notizie/2023/05/14/calcio-fiorentina-batte-udinese-2-0-e-torna-a-vincere_16c4de94-7cee-41f5-9e47-65b1b84c66c0.html",
-            "published": 1684087421000,
-            "created": 1684087421000,
-            "category": [],
-            "enclosures": [],
-            "media": "https://www.ansa.it/webimages/img_457x/2023/5/14/77e67b361e07a56a136ba0fb86d9ac30.jpg",
-            "text": "\n                          \n\n            \n            (ANSA) - FIRENZE, 14 MAG - La Fiorentina torna a vincere in\ncampionato dove è troppo indietro coi punti (2-0 sull'Udinese) e\nsi prepara al meglio per la semifinale di ritorno di Conference\nLeague, giovedì prossimo a Basilea dove dovrà provare a\nribaltare il 2-1 subito in casa. I tre punti conquistati oggi la\nconsolidano all'ottavo posto in condominio con altre formazioni.   \n\t\t\t\tCastrovilli ha sbloccato dopo sette minuti, Bonaventura ha\nchiuso al 90' prima di essere espulso insieme a Pereyra a\npartita ormai conclusa, quando sul campo si è acceso un accenno\ndi rissa. I viola si sono presentati con ben nove cambi nella\nformazione rispetto alla sfida di coppa di giovedì scorso. Unici\nconfermati Biraghi e Ikonè, in porta spazio a Cerofolini alla\nseconda da titolare dopo il debutto con la Sampdoria. I gol:\nvantaggio con Castrovilli al 7' pronto a raccogliere un\nintervento errato di Becao poco dopo che i viola avevano colpito\nun palo con Duncan da 25 metri, raddoppio di Bonaventura al 90'\nche segna dopo una finta finalizzando un'imbeccata di\nCastrovilli. Tra i momenti salienti, nel primo tempo Biraghi\naveva sfiorato il raddoppio su punizione e Brekalo ha colpito un\npalo dopo aver saltato il portiere. Proteste della Fiorentina\nper un atterramento di Kouamé ma il Var ha mostrato il suo\nfuorigioco. Nella ripresa l'unica vera occasione dell'Udinese al\n34' quando il neo entrato Vivaldo ha preso il palo da vicino. La\nFiorentina ha spinto con Gonzalez che non sfrutta tre occasioni\nbuone, poi mette al sicuro il risultaton Bonaventura allo\nscadere. (ANSA).   \n\t\t\t\t          \n\n\n                      ",
-            "daypublished": "14",
-            "monthpublished": "maggio"
-        },
-        {
-            "id": "toscana_26",
-            "title": "Rubò ambulanza per andare a discoteca, evade e va in carcere",
-            "description": "Gip lo fa arrestare, incapace di rispettare arresti domiciliari",
-            "link": "https://www.ansa.it/toscana/notizie/2023/05/14/rubo-ambulanza-per-andare-a-discoteca-evade-e-va-in-carcere_5277c975-82cb-4c2b-8237-3ce34aec6ff1.html",
-            "published": 1684084592000,
-            "created": 1684084592000,
-            "category": [],
-            "enclosures": [],
-            "media": "https://www.ansa.it/webimages/img_457x/2023/5/14/cfda839dcaef2c67a8c7996604194f8f.jpg",
-            "text": "\n                          \n\n            \n            (ANSA) - PORTO AZZURRO (LIVORNO), 14 MAG - All'Elba è evaso\ndagli arresti domiciliari il 28enne già arrestato per il furto\ndi un'auto dopo che era stato denunciato, come gravemente\nindiziato, di essere l'autore del furto e del danneggiamento di\nun'autoambulanza per andare in discoteca, vicenda che fece\nscalpore sull'isola. A causa dell'evasione, i carabinieri di\nPorto Azzurro sono intervenuti su ordine della procura di\nLivorno per eseguire un'ordinanza di aggravamento di misura\ncautelare, che dai domiciliari porta il 28enne in carcere.   \n\t\t\t\t    Inoltre, sempre mentre era agli arresti domiciliari in\nattesa di processo, i carabinieri lo avevano sottoposto a\ndiversi controlli ed erano pure intervenuti su richiesta della\nmadre, con cui vive, la quale \"si era rifiutata di consegnargli\ndenaro per acquistare stupefacenti\" come scriveva il gip,\nscatenando una reazione gravemente minacciosa e violenta,\ndocumentata dai militari. Poi c'è stata pure l'evasione. Tutti\ncomportamenti che per le autorità mostrano che il 26enne è\n\"incapace di attenersi alle prescrizioni connesse alla misura\ndegli arresti domiciliari\". Su richiesta della procura è stato\nchiesto l'aggravamento della misura cautelare e il gip ha\nstabilito che il 28enne venisse trasferito in carcere. (ANSA).   \n\t\t\t\t          \n\n\n                      ",
-            "daypublished": "14",
-            "monthpublished": "maggio"
-        },
-        {
-            "id": "toscana_27",
-            "title": "Sesso per pagare droga, arrestati tre spacciatori a Pisa",
-            "description": "Scatta aggravante per quello che chiedeva prestazioni sessuali",
-            "link": "https://www.ansa.it/toscana/notizie/2023/05/14/sesso-per-pagare-droga-arrestati-tre-spacciatori-a-pisa_ef7e8288-01f4-4189-bff8-a118a5a0bd95.html",
-            "published": 1684084291000,
-            "created": 1684084291000,
-            "category": [],
-            "enclosures": [],
-            "media": "https://www.ansa.it/webimages/img_457x/2021/6/15/a6fd2fd62c529193d18ac2eecae4f90a.jpg",
-            "text": "\n                          \n\n            \n            (ANSA) - PISA, 14 MAG - Tre spacciatori, due senegalesi e una\ndonna italiana, sono stati arrestati oggi dalla squadra mobile\ndi Pisa in esecuzione di altrettante custodie cautelari in\ncarcere disposte dal gip al termine di un'indagine che ha\ndocumentato oltre 120 cessioni di stupefacente ma anche che uno\ndei due uomini chiedeva prestazioni sessuali in cambio della\ncessione di droghe.   \n\t\t\t\t    L'indagine è scattata in seguito alle segnalazione di\ncondomini di un palazzo popolare della periferia che avevano\ndenunciato movimenti sospetti in un appartamento. Per settimane\ni poliziotti hanno tenuto d'occhio l'immobile riscontrando,\nspiega la questura, \"almeno 120 cessioni di cocaina a diversi\nassuntori\". Inoltre uno dei due stranieri arrestati è noto a\nPisa perché residente da diversi anni e perché ha vari\nprecedenti di polizia a carico: a lui è stata contestata una\nspecifica aggravante prevista dalla normativa perché in almeno\ntre occasioni ha ottenuto prestazioni sessuali da una cliente in\ncambio delle cessioni di stupefacente.   \n\t\t\t\t   Il pusher è stato rintracciato all'interno dell'abitazione\ntenuta d'occhio per diverse settimane e quando i poliziotti\nhanno fatto irruzione è stato sorpreso in compagnia di altri\nindividui, alcuni però noti come tossicodipendenti e risultati\nestranei all'indagine. L'uomo è stato tratto in arresto. La\nperquisizione dell'appartamento ha consentito di ritrovare e\nsottoporre a sequestro \"copioso materiale per il confezionamento\nin dosi, sostanza da taglio, bilancina di precisione e pipe per\nfumare il crack\". Sequestrata anche l'abitazione.   \n\t\t\t\t  L'altro senegalese e la donna italiana, già detenuti in\ncarcere per un altro procedimento, hanno ricevuto la notifica\ndella custodia cautelare direttamente in cella. (ANSA).   \n\t\t\t\t          \n\n\n                      ",
-            "daypublished": "14",
             "monthpublished": "maggio"
         }
     ]

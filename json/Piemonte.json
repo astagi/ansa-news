@@ -7,6 +7,20 @@
     "items": [
         {
             "id": "piemonte_0",
+            "title": "Festival del compasso manifatturiero, imprese fanno rete",
+            "description": "All'Aero Club seconda edizione dell'appuntamento di Cna Torino",
+            "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/festival-del-compasso-manifatturiero-imprese-fanno-rete_e33e97fa-4273-4f89-aeaa-66e3497dd8b0.html",
+            "published": 1684263514000,
+            "created": 1684263514000,
+            "category": [],
+            "enclosures": [],
+            "media": "https://www.ansa.it/webimages/img_457x/2023/5/16/9576dccc5531467e07e5c6108d6470dd.jpg",
+            "text": "\n                          \n\n            \n            (ANSA) - TORINO, 16 MAG - Fare rete, cooperare per competere\ngenerando valore. Questo l'obiettivo della seconda edizione del\nFestival del compasso manifatturiero che si è svolto al Campo\nVolo Collegno - Aero Club di Torino, mettendo a confronto una\ncinquantina di imprenditori e presentando 20 case history di\nsuccesso. Il Festival, che è un marchio registrato di proprietà\ndi Cna Torino, è un evento itinerante che intende toccare tutti\ni più importanti centri della Città metropolitana di Torino, a\npartire dal debutto a Torino, a giugno 2022, per dare visibilità\nalle imprese artigiane e alle pmi. \"Grande e piccola impresa\ndevono fare squadra per competere. Questo è un territorio\nfantastico, qui sappiamo fare tutto\", ha detto il presidente\ndell'Unione industriali di Torino, Giorgio Marsiaj..   \n\t\t\t\t    \"La Città metropolitana di Torino è forse l'unico luogo in\nEuropa dove tracciando una circonferenza di poco più di 30 km\ndal capoluogo si possono trovar tutte le competenze e tutte le\ncapacità produttive necessarie per realizzare qualsiasi\nmanufatto, qualsiasi prodotto: dalla meccanica di precisione\nall'elettromedicale, dall'aerospazio all'automotive\nall'industria navale, dalla grafica alla stampa alla legatoria,\ndal food al fashion. Qui sono presenti tutti i servizi necessari\nalle imprese per stare sul mercato\" spiega il presidente della\nCna Torino Nicola Scarlatelli. \"Il Festival del Compasso\nmanifatturiero nasce dalla necessità di confrontarsi su temi\nfondamentali per il nostro futuro e rimettere al centro del\ndibattito pubblico i temi del lavoro, della competitività e\ndella formazione per riconoscere, finalmente, all'artigianato e\nalle piccole imprese il ruolo prezioso che realmente hanno nel\nsistema Italia\" ha aggiunto il segretario di Cna Torino, Filippo\nProvenzano. (ANSA).   \n\t\t\t\t          \n\n\n                      ",
+            "daypublished": "16",
+            "monthpublished": "maggio"
+        },
+        {
+            "id": "piemonte_1",
             "title": "Buongiorno carica il Torino, 'vogliamo uno stadio granata'",
             "description": "Il club fa sconti speciali per le sfide con Fiorentina e Inter",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/buongiorno-carica-il-torino-vogliamo-uno-stadio-granata_82d59ac8-7f97-447c-9a5d-08defaf5fb49.html",
@@ -20,7 +34,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_1",
+            "id": "piemonte_2",
             "title": "Salone del Libro, La Russa e Sangiuliano all'inaugurazione",
             "description": "Presente il ministro della Cultura dell'Albania, paese ospite",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/salone-del-libro-la-russa-e-sangiuliano-allinaugurazione_59e3b219-7bdd-42d2-83bb-1d77c01a99b9.html",
@@ -34,7 +48,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_2",
+            "id": "piemonte_3",
             "title": "Inaugurato un collegio universitario nel cuore di Alessandria",
             "description": "Il Santa Chiara inizia con 43 posti letto",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/inaugurato-un-collegio-universitario-nel-cuore-di-alessandria_179dbe21-a63f-4060-971d-b35432ade4f5.html",
@@ -48,7 +62,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_3",
+            "id": "piemonte_4",
             "title": "Gallerie d'Italia Torino, in un anno 5 mostre e 150 eventi",
             "description": "Tre grandi committenze originali commissionate da Intesa",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/gallerie-ditalia-torino-in-un-anno-5-mostre-e-150-eventi_f924eb6f-05ce-44b6-9b8c-cf3f9bff74ef.html",
@@ -62,7 +76,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_4",
+            "id": "piemonte_5",
             "title": "L'icona techno Jeff Mills apre Apolide, festival nei boschi",
             "description": "20-23 luglio nell'Area Naturalistica di Vialfrè, nel canavese",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/licona-techno-jeff-mills-apre-apolide-festival-nei-boschi_30e52453-6432-4045-b53e-df41086861e4.html",
@@ -76,7 +90,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_5",
+            "id": "piemonte_6",
             "title": "Prima mostra in Italia per la Beirut di Gabriele Basilico",
             "description": "Ad Alessandria immagini dei viaggi del 1991, 2003, 2008 e 2011",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/prima-mostra-in-italia-per-la-beirut-di-gabriele-basilico_16670e6a-a33f-4b05-a3fc-9758e5e7145d.html",
@@ -90,7 +104,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_6",
+            "id": "piemonte_7",
             "title": "Mole arcobaleno per Giornata contro omolesbobitransfobia",
             "description": "Le iniziative della Città per una scuola davvero inclusiva",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/mole-arcobaleno-per-giornata-contro-omolesbobitransfobia_b26e6a95-adec-4b96-92c3-bbcdaa43c065.html",
@@ -104,7 +118,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_7",
+            "id": "piemonte_8",
             "title": "Addio al gallerista Franz Paludetto",
             "description": "Ha creato al Castello di Rivara un Centro d'arte contemporanea",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/addio-al-gallerista-franz-paludetto_8371cfbc-4303-4da9-b37a-4706eac6e178.html",
@@ -118,7 +132,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_8",
+            "id": "piemonte_9",
             "title": "Editoria, in Piemonte si pubblica il 10% dei libri italiani",
             "description": "Nella regione più di 140 editori e 3.280 imprese",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/editoria-in-piemonte-si-pubblica-il-10-dei-libri-italiani_28bf3003-6132-4cca-8330-82cefac3e2df.html",
@@ -132,7 +146,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_9",
+            "id": "piemonte_10",
             "title": "Allo Spazio Musa 'Sergio Perrero - Elogio dell'imperfezione'",
             "description": "Prima antologica dedicata all'artista torinese, oltre 80 opere",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/allo-spazio-musa-sergio-perrero-elogio-dellimperfezione_b0b6271f-93bf-4172-a94e-250581380d41.html",
@@ -146,7 +160,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_10",
+            "id": "piemonte_11",
             "title": "Il Torino si allena con 200 tifosi, da valutare Sanabria",
             "description": "Prima seduta della settimana in vista della Fiorentina",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/il-torino-si-allena-con-200-tifosi-da-valutare-sanabria_2802b9c2-8c93-4559-addb-65a987a8bc01.html",
@@ -160,7 +174,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_11",
+            "id": "piemonte_12",
             "title": "Alle Molinette di Torino la giornata contro l'ipertensione",
             "description": "Misurazioni della pressione e una conferenza",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/alle-molinette-di-torino-la-giornata-contro-lipertensione_21b52d29-79d9-429c-8dfd-0d79963bed6c.html",
@@ -174,7 +188,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_12",
+            "id": "piemonte_13",
             "title": "Confesercenti, in Piemonte nel 2023 chiuderanno 4.500 negozi",
             "description": "'I consumatori tirano la cinghia, -3% di acquisti'",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/confesercenti-in-piemonte-nel-2023-chiuderanno-4.500-negozi_650613bb-d098-4eb3-9654-c6d50f24b213.html",
@@ -188,7 +202,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_13",
+            "id": "piemonte_14",
             "title": "Al canale di Fondotoce inizia la riqualificazione ecologica",
             "description": "Un investimento di 400mila euro con un contributo regionale",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/al-canale-di-fondotoce-inizia-la-riqualificazione-ecologica_c024ebe9-44eb-4c2b-99db-9fada432e9fd.html",
@@ -202,7 +216,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_14",
+            "id": "piemonte_15",
             "title": "'Ndrangheta, Rosso torna in aula per l'appello di Carminius",
             "description": "Tra gli imputati l'ex assessore regionale condannato a 5 anni",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/ndrangheta-rosso-torna-in-aula-per-lappello-di-carminius_bab0704c-4f02-45ab-b9f6-1a65d7f15271.html",
@@ -216,7 +230,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_15",
+            "id": "piemonte_16",
             "title": "Sequestro Gancia, il gip riapre le indagini su Azzolini",
             "description": "Revocata la sentenza che assolveva l'ex brigatista",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/sequestro-gancia-il-gip-riapre-le-indagini-su-azzolini_028d7695-cae0-45c5-8231-ae12b474eec5.html",
@@ -230,7 +244,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_16",
+            "id": "piemonte_17",
             "title": "Siviglia-Juventus arbitra Makkelie, sloveno Vincic per la Roma",
             "description": "Europa League, per i bianconeri c'è il poliziotto olandese",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/siviglia-juventus-arbitra-makkelie-sloveno-vincic-per-la-roma_2d6eef2c-386f-4e9e-adc9-d3b35086d1ba.html",
@@ -244,7 +258,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_17",
+            "id": "piemonte_18",
             "title": "Biella, nella stalla un cimitero di animali abbandonati",
             "description": "Carabinieri indagano un 44enne accusato di maltrattamenti",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/16/biella-nella-stalla-un-cimitero-di-animali-abbandonati_7029f374-3323-40a7-8602-0d267efd38a3.html",
@@ -258,7 +272,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_18",
+            "id": "piemonte_19",
             "title": "Comunali: Orbassano conferma Bosso, ballottaggio a Pianezza",
             "description": "Al secondo turno duello Castello-Minò",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/comunali-orbassano-conferma-bosso-ballottaggio-a-pianezza_8166e0ae-97b2-4489-9caa-79aa23c51f05.html",
@@ -272,7 +286,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_19",
+            "id": "piemonte_20",
             "title": "Comunali: Novi, al ballottaggio Muliere e Porta",
             "description": "Battuto il candidato della Lega Perocchio",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/comunali-novi-al-ballottaggio-muliere-e-porta_c5a8a05d-ed42-4596-b0fe-b0fc2d77e3be.html",
@@ -286,7 +300,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_20",
+            "id": "piemonte_21",
             "title": "Comunali: Matteo Chiantore è il nuovo sindaco di Ivrea",
             "description": "Vittoria del centro-sinistra, con M5s, al primo turno",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/comunali-matteo-chiantore-e-il-nuovo-sindaco-di-ivrea_d4c45458-d804-4a22-aae2-3ff1e12a4c95.html",
@@ -300,7 +314,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_21",
+            "id": "piemonte_22",
             "title": "Comau con Intrinsic (Alphabet) per robotica più democratica",
             "description": "Gorlier:'Con piattaforma software automazione semplice da usare'",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/comau-con-intrinsic-alphabet-per-robotica-piu-democratica_79b9bf63-2b0b-4393-ad9f-da79a456e2ae.html",
@@ -314,7 +328,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_22",
+            "id": "piemonte_23",
             "title": "Riaperti gli stabilimenti termali di Acqui Terme",
             "description": "Cirio, qui ci sono acque vere che sono curative",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/riaperti-gli-stabilimenti-termali-di-acqui-terme_6f9d71e4-bff1-498a-99c6-f07d92f63cbd.html",
@@ -328,7 +342,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_23",
+            "id": "piemonte_24",
             "title": "Peste suina: casi toccano quota 700, nell'elenco entra Montacuto",
             "description": "E' l'88° comune con almeno una positività al virus",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/peste-suina-casi-toccano-quota-700-nellelenco-entra-montacuto_7e2875af-1211-42a7-a154-63a415099e8d.html",
@@ -342,7 +356,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_24",
+            "id": "piemonte_25",
             "title": "Salone del Libro, Fantasmagorie al Bookstock",
             "description": "Castello di Rivoli allestisce l'area ragazzi, tema lo specchio",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/salone-del-libro-fantasmagorie-al-bookstock_73ecf8e7-ef4f-4789-aebf-6c268a88eed7.html",
@@ -356,7 +370,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_25",
+            "id": "piemonte_26",
             "title": "Al Mauto '(IR)Realizzati. Progetti tra utopia e realtà'",
             "description": "La mostra dedicata alle opere incompiute fra utopia e realtà",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/al-mauto-irrealizzati.-progetti-tra-utopia-e-realta_7fb256dc-09e9-4f53-be46-1468c50fbb5f.html",
@@ -370,7 +384,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_26",
+            "id": "piemonte_27",
             "title": "Queenmania Rhapsody, lo show sulla leggenda dei Queen",
             "description": "Al Teatro Alfieri di Torino sabato 20 maggio",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/queenmania-rhapsody-lo-show-sulla-leggenda-dei-queen_d78eff19-8d6c-4009-ac7c-de9dd233ec34.html",
@@ -384,7 +398,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_27",
+            "id": "piemonte_28",
             "title": "Banca di Cherasco, utile a 5,3 milioni, soci oltre 36mila",
             "description": "Approvato bilancio, patrimonio supera i 63 milioni",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/banca-di-cherasco-utile-a-53-milioni-soci-oltre-36mila_d90f0fdf-80b1-41aa-8bd5-7e13eb1a0684.html",
@@ -398,7 +412,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_28",
+            "id": "piemonte_29",
             "title": "Fast X, a Torino dopo le riprese l'anteprima del film",
             "description": "Il 17 maggio serata-evento organizzata da Film Commission",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/fast-x-a-torino-dopo-le-riprese-lanteprima-del-film_8e083653-7297-46db-917e-9a43417e0e3e.html",
@@ -412,7 +426,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_29",
+            "id": "piemonte_30",
             "title": "Studenti in tenda al rettorato a Torino, 'continuiamo protesta'",
             "description": "\"Le risposte delle istituzioni non sono state sufficienti\"",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/studenti-in-tenda-al-rettorato-a-torino-continuiamo-protesta_38479af3-0e02-402f-9cbd-3a26dbc10370.html",
@@ -426,7 +440,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_30",
+            "id": "piemonte_31",
             "title": "Nova Coop, ricavi in crescita nonostante la spesa in calo",
             "description": "Dalle Rive, cooperativa in salute, tutelato potere d'acquisto",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/nova-coop-ricavi-in-crescita-nonostante-la-spesa-in-calo_84e1a582-ae95-494c-ad92-97b0c0e12753.html",
@@ -440,7 +454,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_31",
+            "id": "piemonte_32",
             "title": "Consiglio regionale del Piemonte al Salone del libro di Torino",
             "description": "Arena rinnovata, dedicata alle bellezze del territorio",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/consiglio-regionale-del-piemonte-al-salone-del-libro-di-torino_579071ba-9345-4192-8359-868bd53bf1ec.html",
@@ -454,7 +468,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_32",
+            "id": "piemonte_33",
             "title": "Juve, esami in corso per Pogba dopo il nuovo stop",
             "description": "Il francese al J Medical per valutare l'infortunio muscolare",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/juve-esami-in-corso-per-pogba-dopo-il-nuovo-stop_7cd6a3f8-a435-4891-a145-c7a3843ca0a0.html",
@@ -468,7 +482,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_33",
+            "id": "piemonte_34",
             "title": "La montagna bianca, in Valchiusella la fioritura dei narcisi",
             "description": "Profumi e panorama unici al Pian delle Nere",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/la-montagna-bianca-in-valchiusella-la-fioritura-dei-narcisi_365a0440-b356-4a57-ae4b-67b4c2880cdf.html",
@@ -482,7 +496,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_34",
+            "id": "piemonte_35",
             "title": "Exor, James Anderson entra nella società Lingotto",
             "description": "Asset in gestione pari 3 miliardi di dollari, Osborne presidente",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/15/exor-james-anderson-entra-nella-societa-lingotto_24a09ba5-3061-42b1-8292-c215cff8e418.html",
@@ -496,7 +510,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_35",
+            "id": "piemonte_36",
             "title": "Serie A: Juventus-Cremonese 2-0",
             "description": "Vittoria firmata da Fagioli e Bremer nella ripresa",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/14/serie-a-juventus-cremonese-2-0_0121792e-6f46-4eaf-b095-c20337250b58.html",
@@ -510,7 +524,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "piemonte_36",
+            "id": "piemonte_37",
             "title": "Una targa a Bonucci per le 500 partite con la Juventus",
             "description": "Il difensore è stato premiato dal presidente Ferrero",
             "link": "https://www.ansa.it/piemonte/notizie/2023/05/14/una-targa-a-bonucci-per-le-500-partite-con-la-juventus_355cd0c9-3102-45b7-8d73-60aaaa07c61e.html",

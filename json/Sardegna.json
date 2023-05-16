@@ -7,6 +7,20 @@
     "items": [
         {
             "id": "sardegna_0",
+            "title": "Consiglio regionale respinge mozione censura assessore Doria",
+            "description": "La replica: 'tra il 2018 e il 2022 tempi d'attesa in calo'",
+            "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/consiglio-regionale-respinge-mozione-censura-assessore-doria_c03c1a42-8c1a-42a7-85a0-a1c3d1a41443.html",
+            "published": 1684261455000,
+            "created": 1684261455000,
+            "category": [],
+            "enclosures": [],
+            "media": "https://www.ansa.it/webimages/img_457x/2022/11/29/41c09864532a7d69de2b396cb6a8038c.jpg",
+            "text": "\n                          È stata respinta la mozione di censura nei confronti dell'assessore regionale della Sanità Carlo Doria, presentata dalle opposizioni in Consiglio. Il documento è stato bocciato con 34 voti contrari e 17 favorevoli.    Nella sua replica al dibattito l'assessore Doria ha risposto con altri numeri sulle liste d'attesa sottolineando l'impegno costante per l'abbattimento dei tempi e mettendoli in relazione con le carenze di programmazione delle scuole di specializzazione. \"Confrontando la terza settimana di aprile, tra il 2018 e il 2022 - ha spiegato Doria - per una visita di chirurgia vascolare si è passati da 84 a 28 giorni, una visita oculistica aveva 118 giorni di attesa e oggi 73, una visita ginecologica nel 2018 aveva 36 giorni di attesa e oggi 19, la visita urologica 111 e oggi 101\".    L'assessore replica punto per punto alle sollecitazioni arrivate dall'opposizione e giudicate pretestuose. \"Io i malati li curo, e insegno a curarli, non li uso\", ha evidenziato piccato elencando i provvedimenti presi sia per l'abbattimento delle liste d'attesa sia contro la carenza di medici, soprattutto nelle zone disagiate.    Sul dialogo e il rispetto invocato negli interventi dell'opposizione Doria ha chiesto reciprocità: \"Ero arrivato da 20 giorni e già da subito mi hanno buttato addosso la responsabilità delle emergenze e delle carenze\".   \n                      ",
+            "daypublished": "16",
+            "monthpublished": "maggio"
+        },
+        {
+            "id": "sardegna_1",
             "title": "Geppi Cucciari,'porto sul palco una donna che mi somiglia molto'",
             "description": "L'attrice in Sardegna con 'Perfetta', spettacoli già sold out",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/geppi-cucciariporto-sul-palco-una-donna-che-mi-somiglia-molto_848a5b93-0d9c-4b9e-8f74-de724c0fa916.html",
@@ -20,12 +34,12 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_1",
+            "id": "sardegna_2",
             "title": "Liste d'attesa fino a 12 anni, in Aula i mali della sanità",
             "description": "Elenco delle emergenze nel dibattito sulla mozione contro Doria",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/liste-dattesa-fino-a-12-anni-in-aula-i-mali-della-sanita_5e527ead-bcf1-4048-b464-182c96cfb29b.html",
-            "published": 1684257254000,
-            "created": 1684257254000,
+            "published": 1684260763000,
+            "created": 1684260763000,
             "category": [],
             "enclosures": [],
             "media": "https://www.ansa.it/webimages/img_457x/2013/10/24/0f172dfe679ac7d3a9b9bdcf8233ae66.jpg",
@@ -34,7 +48,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_2",
+            "id": "sardegna_3",
             "title": "Poste: cinque nuovi mezzi elettrici in servizio a Cagliari",
             "description": "Per il recapito di corrispondenza e pacchi",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/poste-cinque-nuovi-mezzi-elettrici-in-servizio-a-cagliari_5f764665-cbd2-445c-98f0-c5a437c2664d.html",
@@ -48,7 +62,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_3",
+            "id": "sardegna_4",
             "title": "Da una ricerca si saprà quanto sono digitali i manager sardi",
             "description": "Firmano il progetto Sosor e Fondirigenti con ateneo di Cagliari",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/da-una-ricerca-si-sapra-quanto-sono-digitali-i-manager-sardi_12812146-d2ff-4295-9036-f52011055a14.html",
@@ -62,7 +76,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_4",
+            "id": "sardegna_5",
             "title": "Beni per mezzo milione confiscati a due fratelli di Olbia",
             "description": "Operazione dei carabinieri, soldi provento traffico di droga",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/beni-per-mezzo-milione-confiscati-a-due-fratelli-di-olbia_96f90962-12b9-4aa9-8dc0-bed23197a013.html",
@@ -76,7 +90,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_5",
+            "id": "sardegna_6",
             "title": "Danza: online elenco spettacoli selezionati per Nid 2023",
             "description": "La nuova piattaforma italiana si terrà a Cagliari a fine agosto",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/danza-online-elenco-spettacoli-selezionati-per-nid-2023_0b5668de-e894-40cd-b38e-ae9d326042b3.html",
@@ -90,7 +104,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_6",
+            "id": "sardegna_7",
             "title": "Manu Invisible dipinge Manzoni nella scuola di Maracalagonis",
             "description": "Opera realizzata insieme a studenti dell'istituto comprensivo",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/manu-invisible-dipinge-manzoni-nella-scuola-di-maracalagonis_a93eacac-6fe3-475c-8e4a-15d06e355775.html",
@@ -104,7 +118,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_7",
+            "id": "sardegna_8",
             "title": "Innovazioni in cucina con lo chef stellato Giuseppe Molaro",
             "description": "Martedì 23 all'Osteria del Forte di Palazzo Doglio a Cagliari",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/innovazioni-in-cucina-con-lo-chef-stellato-giuseppe-molaro_9114d5ae-1bef-4360-8f5a-db7b673b3291.html",
@@ -118,7 +132,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_8",
+            "id": "sardegna_9",
             "title": "Ichnusa sposa progetto riqualificazione Galleria del sale",
             "description": "Un murale di Mauro Patta per rinforzare il legame con la città",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/ichnusa-sposa-progetto-riqualificazione-galleria-del-sale_50b90f8e-5a54-47cc-affa-a8c0aa051e67.html",
@@ -132,7 +146,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_9",
+            "id": "sardegna_10",
             "title": "I carabinieri recuperano 538 reperti archeologici, 65 denunce",
             "description": "Il bilancio del Nucleo tutela patrimonio in Sardegna",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/i-carabinieri-recuperano-538-reperti-archeologici-65-denunce_ed99c664-cd04-4bab-9131-972c7040ce2d.html",
@@ -146,7 +160,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_10",
+            "id": "sardegna_11",
             "title": "Tranciato tubo gas a Cardedu, intervengono i vigili del fuoco",
             "description": "Il gestore Medea chiude le valvole e ferma la perdita",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/tranciato-tubo-gas-a-cardedu-intervengono-i-vigili-del-fuoco_7b78c3ed-f0dd-4ecb-b720-12171efefa5d.html",
@@ -160,7 +174,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_11",
+            "id": "sardegna_12",
             "title": "Via a installazione 68mila nuovi contatori Enel a Sassari",
             "description": "Obiettivo un territorio sempre più smart",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/via-a-installazione-68mila-nuovi-contatori-enel-a-sassari_d31177b1-4d10-4196-828e-70051a69bfd5.html",
@@ -174,7 +188,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_12",
+            "id": "sardegna_13",
             "title": "La Maddalena, turisti cafoni multati dalla Guardia Costiera",
             "description": "Sorpresi con le moto d'acqua tra i bagnanti a Cala Granara",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/la-maddalena-turisti-cafoni-multati-dalla-guardia-costiera_c714ba62-0b85-4e6c-90e6-354b930ce80b.html",
@@ -188,7 +202,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_13",
+            "id": "sardegna_14",
             "title": "Infarto durante lavori di restauro in chiesa, muore operaio",
             "description": "Vittima un 64enne nel Cagliaritano, sul posto carabinieri e 118",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/infarto-durante-lavori-di-restauro-in-chiesa-muore-operaio_f12e7514-c4fd-4f81-898b-85f213db38db.html",
@@ -202,7 +216,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_14",
+            "id": "sardegna_15",
             "title": "Autorizzazione ambientale per Eurallumina, riparte iter riavvio",
             "description": "Ora aggiornamento memorandum in attesa dell'arrivo del gas",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/autorizzazione-ambientale-per-eurallumina-riparte-iter-riavvio_0f34a462-135c-420b-b61d-56b391f5edbb.html",
@@ -216,7 +230,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_15",
+            "id": "sardegna_16",
             "title": "Ferito con una katana a Sassari, pm chiede 8 anni per l'imputato",
             "description": "L'aggressione in centro per il rimprovero di un netturbino",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/ferito-con-una-katana-a-sassari-pm-chiede-8-anni-per-limputato_069c359f-5760-43bb-a255-bc4b48d5ea61.html",
@@ -230,7 +244,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_16",
+            "id": "sardegna_17",
             "title": "Il bisogno d'acqua nelle campagne monitorato dai satelliti",
             "description": "Patto Cbsm-Parco Molentargius per riavviare produzione di sale",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/il-bisogno-dacqua-nelle-campagne-monitorato-dai-satelliti_16eb2e0c-65bf-4f94-beb3-075bd35d78b8.html",
@@ -244,7 +258,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_17",
+            "id": "sardegna_18",
             "title": "Inclusione lavorativa dei detenuti, nasce un marchio etico",
             "description": "Progetto di reinserimento della cooperativa Elan a Cagliari",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/inclusione-lavorativa-dei-detenuti-nasce-un-marchio-etico_6c2316ec-138e-43f8-9bc8-bdc27ced66ea.html",
@@ -258,7 +272,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_18",
+            "id": "sardegna_19",
             "title": "Esperti dalla Spagna per un focus su gestione beni culturali",
             "description": "Due incontri promossi dalla Camera di commercio di Cagliari",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/esperti-dalla-spagna-per-un-focus-su-gestione-beni-culturali_622e0233-b16b-4540-a924-1bddabba4d1f.html",
@@ -272,7 +286,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_19",
+            "id": "sardegna_20",
             "title": "Riapre lo scalo di Tortolì, a fine mese ultimo via libera Enac",
             "description": "Se sopralluogo avrà esito positivo primi voli dal 15 giugno",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/riapre-lo-scalo-di-tortoli-a-fine-mese-ultimo-via-libera-enac_f4fb2ce6-8aa8-4463-a8e3-b0ac36096ed0.html",
@@ -286,7 +300,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_20",
+            "id": "sardegna_21",
             "title": "Quattro milioni per il restyling impianti sportivi universitari",
             "description": "Interventi anche nei campi da tennis e in pista di atletica",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/quattro-milioni-per-il-restyling-impianti-sportivi-universitari_41f40893-e6e7-45b5-8f6e-6517bfab7b32.html",
@@ -300,7 +314,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_21",
+            "id": "sardegna_22",
             "title": "Riccardo Lo Monaco nuovo coordinatore +Europa in Sardegna",
             "description": "Per regionali 'valuteremo idee e programmi di coalizione'",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/riccardo-lo-monaco-nuovo-coordinatore-europa-in-sardegna_187251d1-af93-41e8-b14a-cb701b69c623.html",
@@ -314,7 +328,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_22",
+            "id": "sardegna_23",
             "title": "A Cagliari in frenata i costi di elettricità e combustibili",
             "description": "Diminuiscono del 6,2% rispetto a un mese fa",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/a-cagliari-in-frenata-i-costi-di-elettricita-e-combustibili_92159424-93a2-4020-8253-631706364e13.html",
@@ -328,7 +342,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_23",
+            "id": "sardegna_24",
             "title": "Boom di esportazioni di vini dalla Gallura agli Stati Uniti",
             "description": "Il valore supera i quattro milioni di euro, il 36% dell'export",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/boom-di-esportazioni-di-vini-dalla-gallura-agli-stati-uniti_0145610a-609b-4f2c-a568-c9072256dd6f.html",
@@ -342,7 +356,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_24",
+            "id": "sardegna_25",
             "title": "Naufragio all'Asinara, superstite accusato di omicidio colposo",
             "description": "Procura gli contesta anche furto barca, l'interrogatorio giovedì",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/naufragio-allasinara-superstite-accusato-di-omicidio-colposo_20b61a99-f20a-482b-ae67-6858a47bc3c6.html",
@@ -356,7 +370,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_25",
+            "id": "sardegna_26",
             "title": "Si allontana da Rsa e non rientra, al via ricerche di un 54enne",
             "description": "Macchina dei soccorsi operativa nelle campagne di Capoterra",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/si-allontana-da-rsa-e-non-rientra-al-via-ricerche-di-un-54enne_eeebc3e6-6e43-4702-86b0-2a023aa79509.html",
@@ -370,7 +384,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_26",
+            "id": "sardegna_27",
             "title": "Basket: Dinano vince a Venezia e porta la serie playoff sull'1-1",
             "description": "Giovedì e sabato a Sassari si gioca per la semifinale",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/basket-dinano-vince-a-venezia-e-porta-la-serie-playoff-sull1-1_37438f89-9a1b-43b8-a577-1a67418bd849.html",
@@ -384,7 +398,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_27",
+            "id": "sardegna_28",
             "title": "Nasconde negli scarponi 2 pistole illegali, 20enne arrestato",
             "description": "Operazione della squadra mobile in una abitazione a Siamanna",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/nasconde-negli-scarponi-2-pistole-illegali-20enne-arrestato_fbdf878b-e508-468e-982a-7f9c5299ecf2.html",
@@ -398,7 +412,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_28",
+            "id": "sardegna_29",
             "title": "Blitz antidroga, due arresti e 4 kg di marijuana sequestrati",
             "description": "Operazione della Mobile nell'Oristanese",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/blitz-antidroga-due-arresti-e-4-kg-di-marijuana-sequestrati_a771df63-f5b8-47ee-993b-60c0f95e8ee1.html",
@@ -412,7 +426,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_29",
+            "id": "sardegna_30",
             "title": "Lite finisce a coltellate in un bar a Ghilarza, un ferito",
             "description": "Discussione su vecchio fatto di sangue, denunciato l'aggressore",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/16/lite-finisce-a-coltellate-in-un-bar-a-ghilarza-un-ferito_ba9f1cf7-5fd9-47ae-befc-f103861e5c37.html",
@@ -426,7 +440,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_30",
+            "id": "sardegna_31",
             "title": "Via campagna antincendi, 7400 uomini, 11 elicotteri e 3 Canadair",
             "description": "Ma la Sardegna chiede un Elitanker nell'Isola",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/via-campagna-antincendi-7400-uomini-11-elicotteri-e-3-canadair_403352f4-c108-4374-9b1a-09772b36d379.html",
@@ -440,7 +454,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_31",
+            "id": "sardegna_32",
             "title": "Cooperazione tra Ateneo di Sassari e University for Peace",
             "description": "Pace, sicurezza, difesa diritti umani, ricerca cambiamenti clima",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/cooperazione-tra-ateneo-di-sassari-e-university-for-peace_6c757e11-e331-468e-8f5d-8051032c4560.html",
@@ -454,7 +468,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_32",
+            "id": "sardegna_33",
             "title": "Arriva Calderoli, e martedì in Aula la sfiducia per Doria",
             "description": "Venerdì 19 il ministro sarà in Consiglio regionale",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/arriva-calderoli-e-martedi-in-aula-la-sfiducia-per-doria_99a1e4a0-4825-4b95-85f9-187e3228a334.html",
@@ -468,7 +482,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_33",
+            "id": "sardegna_34",
             "title": "Industria: Nobento inaugura nuovo stabilimento a Olmedo",
             "description": "Apre la seconda fabbrica della \"Cittadella del Serramento\"",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/industria-nobento-inaugura-nuovo-stabilimento-a-olmedo_405ae1a0-0636-4118-8016-70fdc838081a.html",
@@ -482,7 +496,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_34",
+            "id": "sardegna_35",
             "title": "Turismo: in un mese oltre 8mila attività in più del 2022",
             "description": "Semplificazione ed emersione abusivismo con piattaforma Regione",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/turismo-in-un-mese-oltre-8mila-attivita-in-piu-del-2022_5473002f-cf94-4e79-b1d8-93cf6e5c0a39.html",
@@ -496,7 +510,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_35",
+            "id": "sardegna_36",
             "title": "Tossilo, entro giugno riparte l'impianto di compostaggio",
             "description": "Tavolo in Prefettura Nuoro, Regione stanzia 1,5 milioni",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/tossilo-entro-giugno-riparte-limpianto-di-compostaggio_d11a0ead-14bd-463c-8659-55278420b785.html",
@@ -510,7 +524,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_36",
+            "id": "sardegna_37",
             "title": "Esordio alla regia per Giulia Clarkson con \"Bacio alla terra\"",
             "description": "Omaggio alla Dea Madre firmato insieme a Grazia Dentoni",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/esordio-alla-regia-per-giulia-clarkson-con-bacio-alla-terra_347ec715-e509-47b5-b7e6-33d9bb9fc11e.html",
@@ -524,7 +538,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_37",
+            "id": "sardegna_38",
             "title": "Nazionale vip e vecchie glorie Torres in campo per Grace",
             "description": "Il 27 maggio partita per finanziare cure a una bimba sassarese",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/nazionale-vip-e-vecchie-glorie-torres-in-campo-per-grace_ad4cf645-c67a-4f86-ab85-8f27103d53dc.html",
@@ -538,7 +552,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_38",
+            "id": "sardegna_39",
             "title": "Cagliari, nuova piazza e villaggio sportivo a Monte Mixi",
             "description": "Restauro di campi e palestre, arriva un nuovo skatepark",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/cagliari-nuova-piazza-e-villaggio-sportivo-a-monte-mixi_472f468f-8e05-4505-a8ac-af80bbb583a4.html",
@@ -552,7 +566,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_39",
+            "id": "sardegna_40",
             "title": "Ad Arzachena tre nuove aree parcheggio per 367 posti",
             "description": "Ma aumentano le tariffe per i non residenti",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/ad-arzachena-tre-nuove-aree-parcheggio-per-367-posti_698b746d-0a65-4f43-8ce1-d608f3c8c43b.html",
@@ -566,7 +580,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_40",
+            "id": "sardegna_41",
             "title": "La Traviata al Lirico di Cagliari dopo 7 anni,la racconta Bietti",
             "description": "Il musicologo incontra il pubblico venerdì 19 al foyer di platea",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/la-traviata-al-lirico-di-cagliari-dopo-7-annila-racconta-bietti_a22b3a47-bc4b-4d53-933e-27c88bf1bfa9.html",
@@ -580,7 +594,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_41",
+            "id": "sardegna_42",
             "title": "Skunk Anansie, Lovegang e Salmo primi eventi all'Arena Fiera",
             "description": "A Cagliari il calendario provvisorio, bando aperto per operatori",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/skunk-anansie-lovegang-e-salmo-primi-eventi-allarena-fiera_ed8c2ebb-f9d5-4f32-b295-eab8b1a0755e.html",
@@ -594,7 +608,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_42",
+            "id": "sardegna_43",
             "title": "\"Sequestrati in casa per la partita\", protesta a S.Bartolomeo",
             "description": "Residenti esasperati, \"speriamo cose cambino dal prossimo anno\"",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/sequestrati-in-casa-per-la-partita-protesta-a-s.bartolemo_90668c7b-a9af-46e7-85c3-3fa75bfc10c9.html",
@@ -608,7 +622,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_43",
+            "id": "sardegna_44",
             "title": "Nasce a Oristano \"PerMé\", birra con poco alcol e gluten free",
             "description": "Artigianale a bassa carbonazione e con etichetta in braille",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/nasce-a-oristano-perme-birra-con-poco-alcol-e-gluten-free_7a297cb6-0ee2-430f-ac0f-75049c65ad6f.html",
@@ -622,7 +636,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_44",
+            "id": "sardegna_45",
             "title": "Risorse per nuove imprese in Comuni a rischio spopolamento",
             "description": "Sino a 20 mila euro per chi incrementa l'occupazione",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/risorse-per-nuove-imprese-in-comuni-a-rischio-spopolamento_2fd81e27-f617-4274-8d2c-173d4c56a806.html",
@@ -636,7 +650,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_45",
+            "id": "sardegna_46",
             "title": "'Chiamaci non sarai sola', appello-spot dei centri antiviolenza",
             "description": "Presentato il video della commissione regionale Pari opportunità",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/chiamaci-non-sarai-sola-appello-spot-dei-centri-antiviolenza_0dc68cb6-9329-4152-ae2f-c832b3b78fb2.html",
@@ -650,7 +664,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_46",
+            "id": "sardegna_47",
             "title": "Le Domus de janas a Geo su Rai3, focus su candidatura Unesco",
             "description": "In collegamento con la necropoli di Montessu a Villaperucciu",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/le-domus-de-janas-a-geo-su-rai3-focus-su-candidatura-unesco_c20ad068-440b-4cb9-a4fe-1d64417111d8.html",
@@ -664,7 +678,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_47",
+            "id": "sardegna_48",
             "title": "Trenta editori sardi al Salone del libro di Torino",
             "description": "Lo stand regionale apre il 18, 10 appuntamenti giornalieri",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/trenta-editori-sardi-al-salone-del-libro-di-torino_94fda325-4a1a-43de-8910-7413e72e0e66.html",
@@ -678,7 +692,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_48",
+            "id": "sardegna_49",
             "title": "In carrozzina per 300 km, sfida a barriere architettoniche",
             "description": "Cammino in Veneto per 57enne cagliaritana, unica donna in tour",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/in-carrozzina-per-300-km-sfida-a-barriere-architettoniche_54dca3cd-efbd-4016-ad4e-c4fd463ec01d.html",
@@ -692,7 +706,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_49",
+            "id": "sardegna_50",
             "title": "Rifiuti,a Sassari nuovo numero verde per segnalare emergenze",
             "description": "Gratuito e attivo 24 ore su 24 da fisso e mobile",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/rifiutia-sassari-nuovo-numero-verde-per-segnalare-emergenze_33aec7ad-6e91-48cd-89a2-1fbd9377cfd2.html",
@@ -706,7 +720,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_50",
+            "id": "sardegna_51",
             "title": "Premio enoletterario \"Vermentino\" al Salone del Libro di Torino",
             "description": "Vetrina internazionale per concorso Camera di Commercio Sassari",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/premio-enoletterario-vermentino-al-salone-del-libro-di-torino_bd7f90d2-d2a3-4cae-9982-11d34ae951ac.html",
@@ -720,7 +734,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_51",
+            "id": "sardegna_52",
             "title": "Le imprese contro il caro energia, prezzi su ma meno profitti",
             "description": "Confartigianato, anche autoproduzione ed efficientamento",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/le-imprese-contro-il-caro-energia-prezzi-su-ma-meno-profitti_4e325e3d-a2a7-4f35-b10f-5e16d810515a.html",
@@ -734,7 +748,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_52",
+            "id": "sardegna_53",
             "title": "L'Azienda riferimento per la chirurgia robotica",
             "description": "In un anno 203 interventi in ortopedia e multidisciplinare",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/aou-sassari-riferimento-per-la-chirurgia-robotica_24b01e7a-f1c5-40e2-9d3a-59d2af2f7ee3.html",
@@ -748,7 +762,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_53",
+            "id": "sardegna_54",
             "title": "Calcio: Cagliari, caccia al Sudtirol anche con Altare e Prelec",
             "description": "Ripresa allenamenti in vista della calda trasferta di Cosenza",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/calcio-cagliari-caccia-al-sudtirol-anche-con-altare-e-prelec_618010c0-e7bb-4ff8-80de-3f1054a9d280.html",
@@ -762,7 +776,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_54",
+            "id": "sardegna_55",
             "title": "Parroco che ha segnalato abusi, 'pedofilia da denunciare sempre'",
             "description": "Messaggio dopo la messa. Vescovo Oristano: 'presto processo'",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/parroco-che-ha-segnalato-abusi-pedofilia-da-denunciare-sempre_1d2cdb43-39a9-4ebe-b32c-75ae5600e942.html",
@@ -776,7 +790,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_55",
+            "id": "sardegna_56",
             "title": "Sardinia trail, trionfano il francese Heloury e la polacca Majer",
             "description": "Partenza dalla spiaggia di Foxi a Tertenia e arrivo a Cardedu",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/sardinia-trail-trionfano-il-francese-heloury-e-la-polacca-majer_cb75b925-6c1b-42de-9635-efd2b4b61d89.html",
@@ -790,7 +804,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_56",
+            "id": "sardegna_57",
             "title": "Basket: Dinamo in campo stasera a Venezia per pareggiare serie",
             "description": "Seconda gara dei play off scudetto",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/basket-dinamo-in-campo-stasera-a-venezia-per-pareggiare-serie_301efb00-be9e-4fe9-8a0a-3b34d2909cf7.html",
@@ -804,7 +818,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_57",
+            "id": "sardegna_58",
             "title": "Un corto circuito innesca un rogo in locale in centro a Cagliari",
             "description": "Danneggiata 'La piccola caffetteria' in via Cima",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/un-corto-circuito-innesca-un-rogo-in-locale-in-centro-a-cagliari_4ef00144-09a9-4edf-9cf7-9693e1ea8e6f.html",
@@ -818,7 +832,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "sardegna_58",
+            "id": "sardegna_59",
             "title": "Un gigantesco ramo cade su un'edicola di via Roma a Cagliari",
             "description": "Colpita anche un'auto, tagliati i fili di Enel e Ctm",
             "link": "https://www.ansa.it/sardegna/notizie/2023/05/15/un-gigantesco-ramo-cade-su-unedicola-di-via-roma-a-cagliari_fab6d917-7e77-4828-8483-f5a72e36a3e9.html",

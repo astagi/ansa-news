@@ -6,7 +6,7 @@
     "category": [],
     "items": [
         {
-            "id": "emilia romagna_0",
+            "id": "emilia-romagna_0",
             "title": "Il fiume Savio esonda in centro a Cesena",
             "description": "Il Comune aveva avvisato i cittadini di allontanarsi",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/il-fiume-savio-esonda-in-centro-a-cesena_9e24ea23-4162-492e-99df-d8434c673271.html",
@@ -20,7 +20,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_1",
+            "id": "emilia-romagna_1",
             "title": "Il borgo di Castell'Arquato celebra Luigi Illica",
             "description": "Un festival con opere inedite e concerti per il librettista",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/il-borgo-di-castellarquato-celebra-luigi-illica_fc53072e-103b-4645-a92e-5bd6a9323d83.html",
@@ -34,7 +34,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_2",
+            "id": "emilia-romagna_2",
             "title": "Maltempo: a Riccione sul materassino nel sottopasso allagato",
             "description": "Con i remi per andare da una parte all'altra della città",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/maltempo-a-riccione-sul-materassino-nel-sottopasso-allagato_6374ede3-5df2-434c-81de-484d3c6056e1.html",
@@ -48,7 +48,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_3",
+            "id": "emilia-romagna_3",
             "title": "In arrivo all'Alma Mater i primi 2.500 libri di Umberto Eco",
             "description": "La Biblioteca dedicata offrirà al mondo 35 mila volumi",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/in-arrivo-allalma-mater-i-primi-2.500-libri-di-umberto-eco_612cb36a-eaa1-42a5-8273-745de16b05fc.html",
@@ -62,7 +62,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_4",
+            "id": "emilia-romagna_4",
             "title": "Zuppi, la guerra fa schifo, spegnere l'incendio è difficile",
             "description": "Il cardinale incontra gli studenti del Virgilio di Roma",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/zuppi-la-guerra-fa-schifo-spegnere-lincendio-e-difficile_f5ea5cb8-0dab-498b-9260-18ead664a2c4.html",
@@ -76,7 +76,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_5",
+            "id": "emilia-romagna_5",
             "title": "Maltempo: nel Bolognese una colata di fango verso alcune case",
             "description": "A Monterenzio, evacuate dieci persone, altre 12 in via Idice",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/maltempo-nel-bolognese-una-colata-di-fango-verso-alcune-case_bfe6a560-e456-422b-b37b-6815ad676cb7.html",
@@ -90,7 +90,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_6",
+            "id": "emilia-romagna_6",
             "title": "Evacuati in Romagna, Riccione allagata",
             "description": "Allerta massima per la piena dei fiumi e le frane in montagna",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/evacuati-in-romagna-riccione-allagata_37d457a7-f6ea-42b3-a3c5-af5fcede41ce.html",
@@ -104,7 +104,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_7",
+            "id": "emilia-romagna_7",
             "title": "Maltempo: domani nuova allerta rossa in Emilia-Romagna",
             "description": "Per criticità idrica e idrogeologica su gran parte della regione",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/maltempo-domani-nuova-allerta-rossa-in-emilia-romagna_2dafa181-7df2-43ba-b6a2-60889b2d4712.html",
@@ -118,7 +118,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_8",
+            "id": "emilia-romagna_8",
             "title": "Sull'Appennino Bolognese parte un'app per condividere l'auto",
             "description": "Promotore il Comune di San Benedetto Val di Sambro",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/sullappennino-bolognese-parte-unapp-per-condividere-lauto_0886b46a-9662-4b94-acc2-0ed1f1abb2c1.html",
@@ -132,7 +132,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_9",
+            "id": "emilia-romagna_9",
             "title": "Renzi annuncia ingresso in IV di 2 ex Azione Gruppioni e Pigoni",
             "description": "Calenda replica, 'dirlo prima sarebbe stato più elegante'",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/renzi-annuncia-ingresso-in-iv-di-2-ex-azione-gruppioni-e-pigoni_75b79ba9-3c4c-44cf-80ab-5f0780e77e81.html",
@@ -146,7 +146,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_10",
+            "id": "emilia-romagna_10",
             "title": "Frode fiscale nella logistica, sequestri per 74 milioni",
             "description": "Ingente evasione dell'Iva e manodopera illecita. 44 denunciati",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/frode-fiscale-nella-logistica-sequestri-per-74-milioni_e103e404-691a-408e-93df-7412ad956d80.html",
@@ -160,7 +160,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_11",
+            "id": "emilia-romagna_11",
             "title": "Maltempo: a Bologna preoccupa ancora il torrente Ravone",
             "description": "Alcune frane segnalate in provincia e nel Ravennate",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/maltempo-a-bologna-preoccupa-ancora-il-torrente-ravone_112f1755-1dd4-4658-841d-5edc36bf0cca.html",
@@ -174,7 +174,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_12",
+            "id": "emilia-romagna_12",
             "title": "Il pianista Seong-Jin Cho in concerto al Bologna Festival",
             "description": "Il 18 maggio assieme all'Academy of St Martin in the Fields",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/16/il-pianista-seong-jin-cho-in-concerto-al-bologna-festival_55b7d54c-ae1f-49ea-a06e-b354d1b14cbc.html",
@@ -188,7 +188,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_13",
+            "id": "emilia-romagna_13",
             "title": "Comunali: Correggio resta al Pd, Salsomaggiore va alla destra",
             "description": "Testi e Musile Tanzi eletti al primo turno, niente ballottaggi",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/comunali-correggio-resta-al-pd-salsomaggiore-va-alla-lega_b51e5bf9-d2f1-40dc-8926-6b6b560b9400.html",
@@ -202,7 +202,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_14",
+            "id": "emilia-romagna_14",
             "title": "Successo per il primo festival Grazia Deledda a Cervia",
             "description": "Pubblico numeroso per spettacoli, letture e performance",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/successo-per-il-primo-festival-grazia-deledda-a-cervia_e00bc48e-007c-47dc-b449-05e7bc907e99.html",
@@ -216,7 +216,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_15",
+            "id": "emilia-romagna_15",
             "title": "Temporali, vento e mareggiate spaventano l'Emilia-Romagna",
             "description": "Nuova allerta rossa e scuole chiuse. La Regione, 'state attenti'",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/temporali-vento-e-mareggiate-spaventano-lemilia-romagna_abea734d-e70a-4fb4-ab35-5da42497520c.html",
@@ -230,7 +230,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_16",
+            "id": "emilia-romagna_16",
             "title": "La Fondazione Nazionale della Danza il 17 maggio a Madrid",
             "description": "In programma spettacoli danzati tra reale e virtuale",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/la-fondazione-nazionale-della-danza-il-17-maggio-a-madrid_b998111d-3d18-4242-9bcd-c0c0e750bcf8.html",
@@ -244,7 +244,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_17",
+            "id": "emilia-romagna_17",
             "title": "Un Festival conclude a Bologna il progetto teatrale 'Fuori!'",
             "description": "Dal 6 all'11 giugno l'incontro tra l'adolescenza e gli adulti",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/un-festival-conclude-a-bologna-il-progetto-teatrale-fuori_bb9b4b91-a492-4b47-92b8-19abdf6df83b.html",
@@ -258,7 +258,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_18",
+            "id": "emilia-romagna_18",
             "title": "Comunali: in E-R affluenza in calo di quasi cinque punti",
             "description": "A Sarsina già eletto l'unico candidato che si era presentato",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/comunali-in-e-r-affluenza-in-calo-di-quasi-cinque-punti_5e57e632-5aca-4042-84cb-05b5aad404f3.html",
@@ -272,7 +272,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_19",
+            "id": "emilia-romagna_19",
             "title": "F1: Torna Gran premio di Imola, attese oltre 160mila persone",
             "description": "Da venerdì a domenica, previsto un indotto di oltre 200 milioni",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/f1-torna-gran-premio-di-imola-attese-oltre-160mila-persone_aa35781d-16a0-4ff2-8dee-9f680f8d1e12.html",
@@ -286,7 +286,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_20",
+            "id": "emilia-romagna_20",
             "title": "Guida senza patente, rapper tradito dai tatuaggi e denunciato",
             "description": "Random sorpreso per la seconda volta a Riccione",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/guida-senza-patente-rapper-tradito-dai-tatuaggi-e-denunciato_861319a3-b4eb-4ed2-94e3-1b289bd2558b.html",
@@ -300,7 +300,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_21",
+            "id": "emilia-romagna_21",
             "title": "Maltempo: allerta rossa domani su vasta parte dell'E-R",
             "description": "Allarme per le piene dei fiumi e dissesti in collina e montagna",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/maltempo-allerta-rossa-domani-su-vasta-parte-delle-r_35e317a3-2607-4681-a221-27b126e330a6.html",
@@ -314,7 +314,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_22",
+            "id": "emilia-romagna_22",
             "title": "Cade dalla sedia in casa, muore una bambina di 6 anni",
             "description": "Tragedia nel Reggiano, il decesso dopo tre giorni dall'incidente",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/cade-dalla-sedia-in-casa-muore-una-bambina-di-6-anni_a52beb89-f55a-4005-8058-5a8e6b11b661.html",
@@ -328,7 +328,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_23",
+            "id": "emilia-romagna_23",
             "title": "A Parma tappa del 32esimo campionato italiano golf soci Aci",
             "description": "Sabato scorso al Golf Club del Ducato.",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/a-parma-tappa-del-32esimo-campionato-italiano-golf-soci-aci_bf9a5a4a-6f6a-49d0-b531-aa79d6e39f70.html",
@@ -342,7 +342,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_24",
+            "id": "emilia-romagna_24",
             "title": "Sol Gabetta e Paavo Jarvi a Torino e Reggio Emilia",
             "description": "Il 16 e 17 maggio con la Deutsche Kammerphilharmonie Bremen",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/sol-gabetta-e-paavo-jarvi-a-torino-e-reggio-emilia_bd5985c8-d75a-4ecd-8d4e-3a88c42152b1.html",
@@ -356,7 +356,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_25",
+            "id": "emilia-romagna_25",
             "title": "Lucio Saffaro in mostra a Bologna, un viaggio verso l'ignoto",
             "description": "Pittore, scrittore e matematico tra i più originali secondo '900",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/lucio-saffaro-in-mostra-a-bologna-un-viaggio-verso-lignoto_0cb6a842-9bbb-44a0-b325-679296d52cd0.html",
@@ -370,7 +370,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_26",
+            "id": "emilia-romagna_26",
             "title": "Attesa forte ondata di maltempo a Ravenna, domani scuole chiuse",
             "description": "Decisione del sindaco. Da oggi pomeriggio chiusi i passi a mare",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/15/attesa-forte-ondata-di-maltempo-a-ravenna-domani-scuole-chiuse_74f7c6d4-f0a9-4893-889b-0a0a75f2b85a.html",
@@ -384,7 +384,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_27",
+            "id": "emilia-romagna_27",
             "title": "Serie A: Bologna-Roma 0-0",
             "description": "I giallorossi mancano l'aggancio al Milan e restano sesti",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/14/serie-a-bologna-roma-0-0_472c427a-c1a2-4ffd-965c-aa98656db99a.html",
@@ -398,7 +398,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_28",
+            "id": "emilia-romagna_28",
             "title": "A Valentina Bertani il Premio Casa Rossa Bellaria Film Festival",
             "description": "Si chiude la 41/a edizione della rassegna su cinema indipendente",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/14/a-valentina-bertani-il-premio-casa-rossa-bellaria-film-festival_f2816741-9b5e-43c4-9350-8b5ff44c6d93.html",
@@ -412,7 +412,7 @@
             "monthpublished": "maggio"
         },
         {
-            "id": "emilia romagna_29",
+            "id": "emilia-romagna_29",
             "title": "Giro: arrivo al Technogym Village, a Cesena tanti campioni",
             "description": "La nona tappa al Wellness Campus, anche l'azzurra Paternoster",
             "link": "https://www.ansa.it/emiliaromagna/notizie/2023/05/14/giro-arrivo-al-technogym-village-a-cesena-tanti-campioni_543de61b-22d2-4424-8cbb-ec01720157a4.html",

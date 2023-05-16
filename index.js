@@ -2,6 +2,7 @@ const fs = require('fs')
 const { parse } = require('rss-to-json')
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
+var slugify = require('slugify')
 
 const RSS_TO_CONVERT = [
     {
@@ -126,7 +127,7 @@ const main = async () => {
             rss.items[i]['media'] = await getImageSrc(body)
             rss.items[i]['daypublished'] = new Date(rss.items[i].published).toLocaleString('it-IT',  {'day': '2-digit'})
             rss.items[i]['monthpublished'] = new Date(rss.items[i].published).toLocaleString('it-IT',  {'month': 'long'})
-            rss.items[i]['id'] = `${content.name.toLowerCase()}_${i}`
+            rss.items[i]['id'] = slugify(`${content.name.toLowerCase()}_${i}`)
         }
         const fd = fs.openSync(`json/${content.name}.json`, "w+");
         fs.writeSync(fd, JSON.stringify(rss, null, 4))
